@@ -1,0 +1,31 @@
+@import url(reset.css);
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular&display=swap");
+.main {
+	width: 692px;
+	color: #7D7D7D;
+	font-size: 18px;
+	font-family: "Inter", sans-serif;
+	font-weight: 400;
+}
+[class*="__title"]{
+	font-family: "poppins", sans-serif;
+}
+.title{
+	color: #37393F;
+	font-size: 30px;
+	font-weight: 600;
+}
+.sub__title {
+	color: #6B77E5;
+	font-size: 20px;
+	font-weight: 600;
+}
+.secend__title {
+	color: #37393F;
+	font-size: 40px;
+	font-weight: 700;
+}
+.list {
+	font-weight: 500;
+}
